@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">TagLayout</string>
+  <string name="add_tag">Add Tag</string>
+  <string name="tag">TAG</string>
+  <string name="rm_last">Remove Last One</string>
+  <string name="edit">编辑</string>
+  <string name="delete">删除</string>
+</resources>
